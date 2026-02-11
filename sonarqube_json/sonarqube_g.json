@@ -1,0 +1,10 @@
+{
+  "project": "G",
+  "analysisDate": "2026-02-02T09:00:00",
+  "measures": {
+    "vulnerabilities": {
+      "critical": 4,
+      "high": 7
+    }
+  }
+}
