@@ -1,0 +1,11 @@
+{
+  "projectName": "E",
+  "scanDate": "2026-02-04T17:00:00",
+  "riskProfile": {
+    "vulnerabilityRisk": {
+      "critical": 0,
+      "high": 1
+    },
+    "licenseRisk": "LOW"
+  }
+}
